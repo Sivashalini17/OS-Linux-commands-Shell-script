@@ -147,40 +147,31 @@ hello world
  
 grep Hello newfile 
 ## OUTPUT
-
-
+![Screenshot from 2025-02-26 11-39-10](https://github.com/user-attachments/assets/9d6ad080-8433-41d3-92a8-e01319119b4b)
 
 grep hello newfile 
 ## OUTPUT
-
-
-
+![Screenshot from 2025-02-26 11-40-01](https://github.com/user-attachments/assets/bcaccd89-116f-49e2-bfb6-41ab006e705f)
 
 grep -v hello newfile 
 ## OUTPUT
-
-
+![Screenshot from 2025-02-26 11-40-22](https://github.com/user-attachments/assets/8928aaba-008a-4006-90b4-71b3c5c88f11)
 
 cat newfile | grep -i "hello"
 ## OUTPUT
-
-
-
+![Screenshot from 2025-02-26 11-40-50](https://github.com/user-attachments/assets/d468422a-5022-4a02-b0d5-fcba29a82fc1)
 
 cat newfile | grep -i -c "hello"
 ## OUTPUT
-
-
-
+![Screenshot from 2025-02-26 11-41-11](https://github.com/user-attachments/assets/7201c4ff-7faa-4a74-8b77-193454936de9)
 
 grep -R ubuntu /etc
 ## OUTPUT
-
-
+![Screenshot from 2025-02-26 11-41-42](https://github.com/user-attachments/assets/efc58f00-7934-4fcd-8bd3-34d9971bedca)
 
 grep -w -n world newfile   
 ## OUTPUT
-
+![Screenshot from 2025-02-26 11-42-28](https://github.com/user-attachments/assets/cd306b86-025d-4e9c-9567-aded2fef44cc)
 
 cat < newfile 
 ```
