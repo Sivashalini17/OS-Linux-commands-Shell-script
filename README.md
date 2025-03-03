@@ -194,13 +194,11 @@ Linux is best in this World
  ```
 egrep -w 'Hello|hello' newfile 
 ## OUTPUT
-
-
+![Screenshot from 2025-03-03 11-43-54](https://github.com/user-attachments/assets/83f87376-697d-48aa-8450-cfe91566f051)
 
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
-
-
+![Screenshot from 2025-03-03 11-44-16](https://github.com/user-attachments/assets/44c91b57-be10-4dab-b438-df7a1df92831)
 
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
